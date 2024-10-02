@@ -7,7 +7,7 @@ Answer the following questions *without running the repo**.
     > the sum of 2 numbers
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > yes,because it adds num1 and num2
+    > yes
 
 ## Run
 Run the program. 
@@ -44,10 +44,10 @@ Run the program.
 | Operator | Meaning |
 |  :---:    |   :---:   |  
 |   `+`    | Addition |
-|   `-`    | your answer |
-|   `*`    | your answer |
-|   `/`    | your answer |
-|   `//`    | your answer |
-|   `**`    | your answer |
-|   `%`    | your answer |
+|   `-`    | subtraction |
+|   `*`    | multiply |
+|   `/`    | division |
+|   `//`    | floor division (divide and round down) |
+|   `**`    | exponents |
+|   `%`    | mod (remainder of division) |
 
